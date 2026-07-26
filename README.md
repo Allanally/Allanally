@@ -1,4 +1,4 @@
-# Allan KOTANA (Real G)
+# Allan KOTANA
 
 Hi there! 👋  
 I'm a passionate software development enthusiast from **Rwanda**, dedicated to building clean, scalable software that solves real-world problems and elevates the human experience.
